@@ -152,6 +152,9 @@ h4, .h4 {
   #message{
     width:19rem;
   }
+  .img-fluid {
+    padding: 2rem;
+  }
 }
 .horizontal-line{
    width: 200px;
@@ -688,11 +691,11 @@ progress {
 .blockquote-footer::before {
   content: "— ";
 }
-
 .img-fluid {
   max-width: 100%;
   height: auto;
   border-radius: 48px;
+
 }
 .img-fluid1{
   border-radius: none;
